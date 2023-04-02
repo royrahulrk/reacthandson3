@@ -1,0 +1,37 @@
+.feedback-list table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .feedback-list th,
+  .feedback-list td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+  
+  .feedback-list th {
+    background-color: #f0f0f0;
+  }
+  button[type="button"] {
+    display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .div-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
